@@ -1,0 +1,18 @@
+
+=====================Employee===============================Employees==============
+[1|Mike|Smith|mike@abc.com|2223334040|N Pine St|PartTimeEmployee|30|Employee{eid=1, firstname=Mike, lastname=Smith, email=mike@abc.com, phone=2223334040, address=N Pine St, empType=PartTimeEmployee,hours=30, hourlyrate=30.5}]
+================Employees==============
+[2|Rob|Jonas|rob@abc.com|3323334040|W Main St|PartTimeEmployee|25|Employee{eid=2, firstname=Rob, lastname=Jonas, email=rob@abc.com, phone=3323334040, address=W Main St, empType=PartTimeEmployee,hours=25, hourlyrate=40.5}]
+================Employees==============
+[3|David|patric|david@abc.com|4423334040|W Central Ave|FullTimeEmployee|35000.0]
+================Employees==============
+[5|John|Brown|john@123.com|1238905670|N West Ave|FullTimeEmployee|80000.0]
+
+=====================Employee===============================Employees==============
+[1|Mike|Smith|mike@abc.com|2223334040|N Pine St|PartTimeEmployee|30|Employee{eid=1, firstname=Mike, lastname=Smith, email=mike@abc.com, phone=2223334040, address=N Pine St, empType=PartTimeEmployee,hours=30, hourlyrate=30.5}]
+================Employees==============
+[2|Rob|Jonas|rob@abc.com|3323334040|W Main St|PartTimeEmployee|25|Employee{eid=2, firstname=Rob, lastname=Jonas, email=rob@abc.com, phone=3323334040, address=W Main St, empType=PartTimeEmployee,hours=25, hourlyrate=40.5}]
+================Employees==============
+[3|David|patric|david@abc.com|4423334040|W Central Ave|FullTimeEmployee|35000.0]
+================Employees==============
+[10|Michel|smith|michel@123.com|223345566|W Normal St|FullTimeEmployee|70000.0]

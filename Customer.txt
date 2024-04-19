@@ -1,0 +1,25 @@
+Customer ID: 1
+Customer Name: mia lee
+Customer Email: mia
+Customer Phone: 2234567890
+Customer Type: Individual
+Account ID: 10
+Account Balance: 1000.0
+Account Type: Checking
+Account ID: 11
+Account Balance: 1000.0
+Account Type: Savings
+---------------------------------------------------
+================Customer=============
+Customer ID: 5
+Customer Name: rina patel
+Customer Email: rina@123.com
+Customer Phone: 1113336669
+Customer Type: Individual
+Account ID: 10
+Account Balance: 1000.0
+Account Type: Checking
+Account ID: 11
+Account Balance: 1000.0
+Account Type: Saving
+---------------------------------------------------

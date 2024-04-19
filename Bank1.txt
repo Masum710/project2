@@ -1,0 +1,41 @@
+================Bank==============
+[B001|Bank Of Suburbs|9990000111|Schaumburg, IL]
+=====================Employee===============
+[1|Mike|Smith|mike@abc.com|2223334040|N Pine St|PartTimeEmployee|30|30.5]
+[2|Rob|Jonas|rob@abc.com|3323334040|W Main St|PartTimeEmployee|25|40.5]
+[3|David|patric|david@abc.com|4423334040|W Central Ave|FullTimeEmployee|35000.0]
+[19|John|Wilson|john@123.com|8907689090|N North Ave|FullTimeEmployee|80000.0]
+================Customer=============
+Customer ID: 21
+Customer Name: Mia Smith
+Customer Email: mia@123.com
+Customer Phone: 8907653456
+Customer Type: Individual
+Account ID: 10
+Account Balance: 1000.0
+Account Type: Checking
+Account ID: 11
+Account Balance: 1500.0
+Account Type: Saving
+---------------------------------------------------
+=====================Employee===============
+[1|Mike|Smith|mike@abc.com|2223334040|N Pine St|PartTimeEmployee|30|30.5]
+[2|Rob|Jonas|rob@abc.com|3323334040|W Main St|PartTimeEmployee|25|40.5]
+[3|David|patric|david@abc.com|4423334040|W Central Ave|FullTimeEmployee|35000.0]
+[31|Mia|Lee|Mia@123.com|8907891234|N Mian Ln|FullTimeEmployee|70000.0]
+================Customer=============
+Customer ID: 21
+Customer Name: Mike Jonas
+Customer Email: mike@123.com
+Customer Phone: 8907653456
+Customer Type: Individual
+Account ID: 20
+Account Balance: 1000.0
+Account Type: Checking
+Account ID: 21
+Account Balance: 1500.0
+Account Type: Saving
+Account ID: 19
+Account Balance: 1000.0
+Account Type: FixedDeposit
+---------------------------------------------------
